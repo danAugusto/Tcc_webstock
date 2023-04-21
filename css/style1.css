@@ -1,0 +1,100 @@
+body {
+	padding: 0;
+	margin:0;
+}				
+
+
+div.menu{
+	overflow: hidden;
+	background-color: #0083FF;
+	width: 100%;
+		}
+div.menu a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 30px 40px;
+	text-decoration: none;
+	font-size: 17px;
+			}
+div.main {
+	padding: 10px;
+  	height: 1000px;
+		}
+h2{
+	text-align: center;
+	font-size: 35px;
+	color: #FE2E64;
+		}	
+p{
+	color: black;
+	font-size: 20px;
+	float: left;
+	}
+img#imgTec{
+	width: 700px;
+	height: 400px;
+	}
+h1{
+	text-align: left;
+	font-size: 35px;
+	color: #FFB619;
+	}
+p.footer{
+	color: #0083FF;
+	text-align: center;
+	}
+
+div.login{
+	margin:0 auto;
+	margin-right:60%; 
+	margin-top:5%;
+	width:450px;
+	height:350px;
+	background: #fff;
+	
+	
+	border-radius: 10px;
+}
+img#imagemLogo{
+	float:right;
+	margin-right:5%;
+	border: 1px solid blue;
+	border-radius: 10px;
+	height:30%;
+	width:30%;
+
+}
+#loginH1{
+	padding-top:20px;
+	text-align: center;
+	color:grey;
+	font-size:50px;
+
+}
+.form-control{
+	width: 65%;
+	margin: 0 auto;
+	padding: 10px;
+	border: 2px solid lightgrey;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+.botaoEnviarLogin{
+	padding: 10px;
+	width: 60%;
+	margin: 0 auto;
+	border-radius: 5px;
+	border: none;
+	text-transform: uppercase;
+	font-weight: 700;
+	background:#0083FF;
+	color:white;
+	
+}
+.rodape{
+	overflow: hidden;
+	background-color: #0083FF;
+	width: 100%;
+}
